@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "name": "language-angelscript",
+  "description": "Atom language support for Angelscript",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdunderscore/language-angelscript.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdunderscore/language-angelscript/issues"
+  },
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}
