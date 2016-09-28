@@ -18,4 +18,8 @@
     'match': '\\bnull\\b'
     'name': 'variable.language.as'
   }
+  {
+    'match': '\\w+\\@'
+    'name': 'variable.language.as'
+  }
 ]
